@@ -92,7 +92,7 @@ VividVibes is a dynamic web application designed to provide a seamless and engag
 
 #### Contributers
 
-Sathwik Reddy
+Sathwik Reddy Chelemela
 Rama Chandra Kashyap
 Vidhi Patel
 Vaibhavee Gamit
